@@ -1,0 +1,276 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9D844FB4-44DE-4F87-AA20-80F6EC85FDA6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Hospital_Management_System</RootNamespace>
+    <AssemblyName>Hospital Management System</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="InsertDoctorInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InsertDoctorInfo.Designer.cs">
+      <DependentUpon>InsertDoctorInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Doctorszone.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Doctorszone.Designer.cs">
+      <DependentUpon>Doctorszone.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HospitalDbDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HospitalDbDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="PatientZone.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PatientZone.Designer.cs">
+      <DependentUpon>PatientZone.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StaffInsert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StaffInsert.Designer.cs">
+      <DependentUpon>StaffInsert.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StaffView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StaffView.Designer.cs">
+      <DependentUpon>StaffView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Staffzone.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Staffzone.Designer.cs">
+      <DependentUpon>Staffzone.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StartPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StartPage.Designer.cs">
+      <DependentUpon>StartPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StartingOptions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StartingOptions.Designer.cs">
+      <DependentUpon>StartingOptions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewDoctor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewDoctor.Designer.cs">
+      <DependentUpon>ViewDoctor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewPatientInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewPatientInfo.Designer.cs">
+      <DependentUpon>ViewPatientInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InsertPatientInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InsertPatientInfo.Designer.cs">
+      <DependentUpon>InsertPatientInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AvailableBlood.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AvailableBlood.Designer.cs">
+      <DependentUpon>AvailableBlood.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BloodControlPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BloodControlPanel.Designer.cs">
+      <DependentUpon>BloodControlPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="InsertDoctorInfo.resx">
+      <DependentUpon>InsertDoctorInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Doctorszone.resx">
+      <DependentUpon>Doctorszone.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PatientZone.resx">
+      <DependentUpon>PatientZone.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StaffInsert.resx">
+      <DependentUpon>StaffInsert.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StaffView.resx">
+      <DependentUpon>StaffView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Staffzone.resx">
+      <DependentUpon>Staffzone.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StartPage.resx">
+      <DependentUpon>StartPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StartingOptions.resx">
+      <DependentUpon>StartingOptions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewDoctor.resx">
+      <DependentUpon>ViewDoctor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewPatientInfo.resx">
+      <DependentUpon>ViewPatientInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InsertPatientInfo.resx">
+      <DependentUpon>InsertPatientInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AvailableBlood.resx">
+      <DependentUpon>AvailableBlood.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BloodControlPanel.resx">
+      <DependentUpon>BloodControlPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="HospitalDbDataSet.xsc">
+      <DependentUpon>HospitalDbDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="HospitalDbDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HospitalDbDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="HospitalDbDataSet.xss">
+      <DependentUpon>HospitalDbDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hospital-Management.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1stpage.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\firstpagee.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Customer_save.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\customer_view.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DoctorIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Doctor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DoctorIcon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\patient_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blood_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\staff.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Home_Ad2_background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bloodinfo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bloodupdate.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Doctors zone.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Doctors_insert.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doctors view.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doctors view1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\StaffZone.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\StaffView.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\StaffInsert.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

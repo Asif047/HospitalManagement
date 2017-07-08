@@ -1,0 +1,219 @@
+c:\users\bushra\documents\visual studio 2012\Projects\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe.config
+c:\users\bushra\documents\visual studio 2012\Projects\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe
+c:\users\bushra\documents\visual studio 2012\Projects\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.pdb
+c:\users\bushra\documents\visual studio 2012\Projects\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csprojResolveAssemblyReference.cache
+c:\users\bushra\documents\visual studio 2012\Projects\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Form1.resources
+c:\users\bushra\documents\visual studio 2012\Projects\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Properties.Resources.resources
+c:\users\bushra\documents\visual studio 2012\Projects\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.GenerateResource.Cache
+c:\users\bushra\documents\visual studio 2012\Projects\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.exe
+c:\users\bushra\documents\visual studio 2012\Projects\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.pdb
+c:\users\bushra\documents\visual studio 2012\Projects\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Form2.resources
+c:\users\bushra\documents\visual studio 2012\Projects\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Form4.resources
+C:\Users\bushra\Documents\Visual Studio 2012\Projects\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Form3.resources
+E:\3.2\Lab\SD\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe.config
+E:\3.2\Lab\SD\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.exe
+E:\3.2\Lab\SD\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.pdb
+E:\3.2\Lab\SD\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe
+E:\3.2\Lab\SD\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.pdb
+E:\3.2\Lab\SD\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csprojResolveAssemblyReference.cache
+E:\3.2\Lab\SD\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Properties.Resources.resources
+E:\3.2\Lab\SD\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.GenerateResource.Cache
+E:\3.2\Lab\SD\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.StartPage.resources
+E:\3.2\Lab\SD\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.StartingOptions.resources
+E:\3.2\Lab\SD\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.ViewPatientInfo.resources
+E:\3.2\Lab\SD\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.InsertPatientInfo.resources
+E:\3.2\Lab\SD\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.AvailableBlood.resources
+E:\3.2\Lab\SD\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.BloodControlPanel.resources
+E:\3.2\Lab\SD\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.PatientZone.resources
+E:\3.2\Lab\SD\A\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe.config
+E:\3.2\Lab\SD\A\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.exe
+E:\3.2\Lab\SD\A\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.pdb
+E:\3.2\Lab\SD\Project\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe.config
+E:\3.2\Lab\SD\Project\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.exe
+E:\3.2\Lab\SD\Project\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.pdb
+E:\3.2\Lab\SD\Project\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe
+E:\3.2\Lab\SD\Project\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.pdb
+E:\3.2\Lab\SD\Project\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csprojResolveAssemblyReference.cache
+E:\3.2\Lab\SD\Project\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.PatientZone.resources
+E:\3.2\Lab\SD\Project\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.StartPage.resources
+E:\3.2\Lab\SD\Project\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.StartingOptions.resources
+E:\3.2\Lab\SD\Project\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.ViewPatientInfo.resources
+E:\3.2\Lab\SD\Project\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.InsertPatientInfo.resources
+E:\3.2\Lab\SD\Project\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.AvailableBlood.resources
+E:\3.2\Lab\SD\Project\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.BloodControlPanel.resources
+E:\3.2\Lab\SD\Project\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Properties.Resources.resources
+E:\3.2\Lab\SD\Project\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.GenerateResource.Cache
+E:\3.2\Lab\SD\Project\Update2\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe.config
+E:\3.2\Lab\SD\Project\Update2\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.exe
+E:\3.2\Lab\SD\Project\Update2\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.pdb
+E:\3.2\Lab\SD\Project\Update2\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csprojResolveAssemblyReference.cache
+E:\3.2\Lab\SD\Project\Update2\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.PatientZone.resources
+E:\3.2\Lab\SD\Project\Update2\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.StartPage.resources
+E:\3.2\Lab\SD\Project\Update2\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.StartingOptions.resources
+E:\3.2\Lab\SD\Project\Update2\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.ViewPatientInfo.resources
+E:\3.2\Lab\SD\Project\Update2\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.InsertPatientInfo.resources
+E:\3.2\Lab\SD\Project\Update2\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.AvailableBlood.resources
+E:\3.2\Lab\SD\Project\Update2\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.BloodControlPanel.resources
+E:\3.2\Lab\SD\Project\Update2\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Properties.Resources.resources
+E:\3.2\Lab\SD\Project\Update2\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.GenerateResource.Cache
+E:\3.2\Lab\SD\Project\Update2\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe
+E:\3.2\Lab\SD\Project\Update2\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.pdb
+E:\3.2\Lab\SD\Project\Update3\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe.config
+E:\3.2\Lab\SD\Project\Update3\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.exe
+E:\3.2\Lab\SD\Project\Update3\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.pdb
+E:\3.2\Lab\SD\Project\Update3\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe
+E:\3.2\Lab\SD\Project\Update3\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.pdb
+E:\3.2\Lab\SD\Project\Update3\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csprojResolveAssemblyReference.cache
+E:\3.2\Lab\SD\Project\Update3\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.PatientZone.resources
+E:\3.2\Lab\SD\Project\Update3\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.StartPage.resources
+E:\3.2\Lab\SD\Project\Update3\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.StartingOptions.resources
+E:\3.2\Lab\SD\Project\Update3\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.ViewPatientInfo.resources
+E:\3.2\Lab\SD\Project\Update3\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.InsertPatientInfo.resources
+E:\3.2\Lab\SD\Project\Update3\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.AvailableBlood.resources
+E:\3.2\Lab\SD\Project\Update3\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.BloodControlPanel.resources
+E:\3.2\Lab\SD\Project\Update3\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Properties.Resources.resources
+E:\3.2\Lab\SD\Project\Update3\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.GenerateResource.Cache
+E:\3.2\Lab\SD\Project\Update4\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe.config
+E:\3.2\Lab\SD\Project\Update4\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.exe
+E:\3.2\Lab\SD\Project\Update4\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.pdb
+E:\3.2\Lab\SD\Project\Update4\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe
+E:\3.2\Lab\SD\Project\Update4\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.pdb
+E:\3.2\Lab\SD\Project\Update4\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csprojResolveAssemblyReference.cache
+E:\3.2\Lab\SD\Project\Update4\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.PatientZone.resources
+E:\3.2\Lab\SD\Project\Update4\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.StartPage.resources
+E:\3.2\Lab\SD\Project\Update4\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.StartingOptions.resources
+E:\3.2\Lab\SD\Project\Update4\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.ViewPatientInfo.resources
+E:\3.2\Lab\SD\Project\Update4\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.InsertPatientInfo.resources
+E:\3.2\Lab\SD\Project\Update4\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.AvailableBlood.resources
+E:\3.2\Lab\SD\Project\Update4\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.BloodControlPanel.resources
+E:\3.2\Lab\SD\Project\Update4\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Properties.Resources.resources
+E:\3.2\Lab\SD\Project\Update4\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.GenerateResource.Cache
+C:\Users\bushra\Desktop\Update4\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe.config
+C:\Users\bushra\Desktop\Update4\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.exe
+C:\Users\bushra\Desktop\Update4\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.pdb
+C:\Users\bushra\Desktop\Update4\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csprojResolveAssemblyReference.cache
+C:\Users\bushra\Desktop\Update4\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.PatientZone.resources
+C:\Users\bushra\Desktop\Update4\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.StartPage.resources
+C:\Users\bushra\Desktop\Update4\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.StartingOptions.resources
+C:\Users\bushra\Desktop\Update4\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.ViewPatientInfo.resources
+C:\Users\bushra\Desktop\Update4\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.InsertPatientInfo.resources
+C:\Users\bushra\Desktop\Update4\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.AvailableBlood.resources
+C:\Users\bushra\Desktop\Update4\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.BloodControlPanel.resources
+C:\Users\bushra\Desktop\Update4\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Properties.Resources.resources
+C:\Users\bushra\Desktop\Update4\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.GenerateResource.Cache
+C:\Users\bushra\Desktop\Update4\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe
+C:\Users\bushra\Desktop\Update4\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.pdb
+C:\Users\bushra\Desktop\Update4\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Doctors1.resources
+C:\Users\bushra\Desktop\Update4\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Doctorszone.resources
+C:\Users\bushra\Desktop\Update4\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.StaffInsert.resources
+C:\Users\bushra\Desktop\Update4\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.StaffView.resources
+C:\Users\bushra\Desktop\Update4\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Staffzone.resources
+C:\Users\bushra\Desktop\Update4\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.ViewDoctor.resources
+E:\3.2\Lab\SD\Update4\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe.config
+E:\3.2\Lab\SD\Update4\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.exe
+E:\3.2\Lab\SD\Update4\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.pdb
+E:\3.2\Lab\SD\Update4\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe
+E:\3.2\Lab\SD\Update4\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.pdb
+E:\3.2\Lab\SD\Update4\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csprojResolveAssemblyReference.cache
+E:\3.2\Lab\SD\Update4\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Doctorszone.resources
+E:\3.2\Lab\SD\Update4\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.PatientZone.resources
+E:\3.2\Lab\SD\Update4\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.StaffInsert.resources
+E:\3.2\Lab\SD\Update4\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.StaffView.resources
+E:\3.2\Lab\SD\Update4\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Staffzone.resources
+E:\3.2\Lab\SD\Update4\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.StartPage.resources
+E:\3.2\Lab\SD\Update4\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.StartingOptions.resources
+E:\3.2\Lab\SD\Update4\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.ViewDoctor.resources
+E:\3.2\Lab\SD\Update4\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.ViewPatientInfo.resources
+E:\3.2\Lab\SD\Update4\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.InsertPatientInfo.resources
+E:\3.2\Lab\SD\Update4\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.AvailableBlood.resources
+E:\3.2\Lab\SD\Update4\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.BloodControlPanel.resources
+E:\3.2\Lab\SD\Update4\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Properties.Resources.resources
+E:\3.2\Lab\SD\Update4\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.GenerateResource.Cache
+E:\3.2\Lab\SD\Update4\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.InsertDoctorInfo.resources
+E:\3.2\Lab\SD\Project\Update 9\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe.config
+E:\3.2\Lab\SD\Project\Update 9\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.exe
+E:\3.2\Lab\SD\Project\Update 9\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.pdb
+E:\3.2\Lab\SD\Project\Update 9\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe
+E:\3.2\Lab\SD\Project\Update 9\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.pdb
+E:\3.2\Lab\SD\Project\Update 9\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csprojResolveAssemblyReference.cache
+E:\3.2\Lab\SD\Project\Update 9\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.InsertDoctorInfo.resources
+E:\3.2\Lab\SD\Project\Update 9\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Doctorszone.resources
+E:\3.2\Lab\SD\Project\Update 9\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.PatientZone.resources
+E:\3.2\Lab\SD\Project\Update 9\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.StaffInsert.resources
+E:\3.2\Lab\SD\Project\Update 9\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.StaffView.resources
+E:\3.2\Lab\SD\Project\Update 9\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Staffzone.resources
+E:\3.2\Lab\SD\Project\Update 9\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.StartPage.resources
+E:\3.2\Lab\SD\Project\Update 9\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.StartingOptions.resources
+E:\3.2\Lab\SD\Project\Update 9\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.ViewDoctor.resources
+E:\3.2\Lab\SD\Project\Update 9\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.ViewPatientInfo.resources
+E:\3.2\Lab\SD\Project\Update 9\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.InsertPatientInfo.resources
+E:\3.2\Lab\SD\Project\Update 9\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.AvailableBlood.resources
+E:\3.2\Lab\SD\Project\Update 9\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.BloodControlPanel.resources
+E:\3.2\Lab\SD\Project\Update 9\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Properties.Resources.resources
+E:\3.2\Lab\SD\Project\Update 9\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.GenerateResource.Cache
+E:\3.2\Lab\SD\Project\Update10\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe.config
+E:\3.2\Lab\SD\Project\Update10\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.exe
+E:\3.2\Lab\SD\Project\Update10\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.pdb
+E:\3.2\Lab\SD\Project\Update10\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe
+E:\3.2\Lab\SD\Project\Update10\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.pdb
+E:\3.2\Lab\SD\Project\Update10\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csprojResolveAssemblyReference.cache
+E:\3.2\Lab\SD\Project\Update10\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.InsertDoctorInfo.resources
+E:\3.2\Lab\SD\Project\Update10\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Doctorszone.resources
+E:\3.2\Lab\SD\Project\Update10\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.PatientZone.resources
+E:\3.2\Lab\SD\Project\Update10\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.StaffInsert.resources
+E:\3.2\Lab\SD\Project\Update10\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.StaffView.resources
+E:\3.2\Lab\SD\Project\Update10\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Staffzone.resources
+E:\3.2\Lab\SD\Project\Update10\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.StartPage.resources
+E:\3.2\Lab\SD\Project\Update10\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.StartingOptions.resources
+E:\3.2\Lab\SD\Project\Update10\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.ViewDoctor.resources
+E:\3.2\Lab\SD\Project\Update10\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.ViewPatientInfo.resources
+E:\3.2\Lab\SD\Project\Update10\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.InsertPatientInfo.resources
+E:\3.2\Lab\SD\Project\Update10\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.AvailableBlood.resources
+E:\3.2\Lab\SD\Project\Update10\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.BloodControlPanel.resources
+E:\3.2\Lab\SD\Project\Update10\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Properties.Resources.resources
+E:\3.2\Lab\SD\Project\Update10\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.GenerateResource.Cache
+E:\3.2\Lab\SD\Project\Update11\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe.config
+E:\3.2\Lab\SD\Project\Update11\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.exe
+E:\3.2\Lab\SD\Project\Update11\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.pdb
+E:\3.2\Lab\SD\Project\Update11\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe
+E:\3.2\Lab\SD\Project\Update11\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.pdb
+E:\3.2\Lab\SD\Project\Update11\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csprojResolveAssemblyReference.cache
+E:\3.2\Lab\SD\Project\Update11\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.InsertDoctorInfo.resources
+E:\3.2\Lab\SD\Project\Update11\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Doctorszone.resources
+E:\3.2\Lab\SD\Project\Update11\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.PatientZone.resources
+E:\3.2\Lab\SD\Project\Update11\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.StaffInsert.resources
+E:\3.2\Lab\SD\Project\Update11\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.StaffView.resources
+E:\3.2\Lab\SD\Project\Update11\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Staffzone.resources
+E:\3.2\Lab\SD\Project\Update11\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.StartPage.resources
+E:\3.2\Lab\SD\Project\Update11\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.StartingOptions.resources
+E:\3.2\Lab\SD\Project\Update11\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.ViewDoctor.resources
+E:\3.2\Lab\SD\Project\Update11\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.ViewPatientInfo.resources
+E:\3.2\Lab\SD\Project\Update11\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.InsertPatientInfo.resources
+E:\3.2\Lab\SD\Project\Update11\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.AvailableBlood.resources
+E:\3.2\Lab\SD\Project\Update11\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.BloodControlPanel.resources
+E:\3.2\Lab\SD\Project\Update11\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Properties.Resources.resources
+E:\3.2\Lab\SD\Project\Update11\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.GenerateResource.Cache
+E:\3.2\Lab\SD\Project\Update12\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe.config
+E:\3.2\Lab\SD\Project\Update12\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.exe
+E:\3.2\Lab\SD\Project\Update12\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.pdb
+E:\Previous sem\3.2\Lab\SD\Project\Update12\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe.config
+E:\Previous sem\3.2\Lab\SD\Project\Update12\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.exe
+E:\Previous sem\3.2\Lab\SD\Project\Update12\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.pdb
+E:\Previous sem\3.2\Lab\SD\Project\Update12\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe
+E:\Previous sem\3.2\Lab\SD\Project\Update12\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.pdb
+E:\Previous sem\3.2\Lab\SD\Project\Update12\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csprojResolveAssemblyReference.cache
+E:\Previous sem\3.2\Lab\SD\Project\Update12\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.InsertDoctorInfo.resources
+E:\Previous sem\3.2\Lab\SD\Project\Update12\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Doctorszone.resources
+E:\Previous sem\3.2\Lab\SD\Project\Update12\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.PatientZone.resources
+E:\Previous sem\3.2\Lab\SD\Project\Update12\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.StaffInsert.resources
+E:\Previous sem\3.2\Lab\SD\Project\Update12\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.StaffView.resources
+E:\Previous sem\3.2\Lab\SD\Project\Update12\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Staffzone.resources
+E:\Previous sem\3.2\Lab\SD\Project\Update12\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.StartPage.resources
+E:\Previous sem\3.2\Lab\SD\Project\Update12\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.StartingOptions.resources
+E:\Previous sem\3.2\Lab\SD\Project\Update12\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.ViewDoctor.resources
+E:\Previous sem\3.2\Lab\SD\Project\Update12\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.ViewPatientInfo.resources
+E:\Previous sem\3.2\Lab\SD\Project\Update12\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.InsertPatientInfo.resources
+E:\Previous sem\3.2\Lab\SD\Project\Update12\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.AvailableBlood.resources
+E:\Previous sem\3.2\Lab\SD\Project\Update12\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.BloodControlPanel.resources
+E:\Previous sem\3.2\Lab\SD\Project\Update12\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Properties.Resources.resources
+E:\Previous sem\3.2\Lab\SD\Project\Update12\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.GenerateResource.Cache
